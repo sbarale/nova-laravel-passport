@@ -9,7 +9,7 @@
     "require": {
         "php": ">=7.1.0",
         "laravel/nova": "^3.0",
-        "laravel/passport": "^7.3"
+        "laravel/passport": "^9"
     },
     "autoload": {
         "psr-4": {
